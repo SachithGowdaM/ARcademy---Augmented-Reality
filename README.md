@@ -14,7 +14,7 @@ ARcademy also offers a unique experience for exploring planets. This feature sup
 File Upload Information:
 Due to the large size of the project files, I couldn’t upload them to GitHub directly. Instead, I have uploaded them to my Google Drive. You can access the files using the link provided below:
 
-[ACCESS LINK](https://drive.google.com/drive/folders/1BOLcvfPmplDpq8o5hhH-UZJFivyfk8oT?usp=sharing)
+[ACCESS LINK](https://drive.google.com/drive/folders/1BOLcvfPmplDpq8o5hhH-UZJFivyfk8oT)
 
 The project is organized into two folders:
 1. Build File Folder:
